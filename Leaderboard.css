@@ -1,0 +1,56 @@
+.leaderboard {
+  max-width: 500px;
+  margin: 40px auto;
+  text-align: center;
+  background: #fff8f0;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.leaderboard h2 {
+  margin-bottom: 20px;
+  color: #ff7b00;
+}
+
+.leaderboard-table {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.leaderboard-header, .leaderboard-row {
+  display: grid;
+  grid-template-columns: 60px 1fr 100px;
+  padding: 10px 15px;
+  border-radius: 10px;
+}
+
+.leaderboard-header {
+  background: #ffd8b1;
+  font-weight: bold;
+}
+
+.leaderboard-row {
+  background: #fff3e1;
+  transition: transform 0.2s;
+}
+
+.leaderboard-row:hover {
+  transform: scale(1.02);
+}
+
+.rank {
+  font-weight: bold;
+  text-align: center;
+}
+
+.name {
+  text-align: left;
+}
+
+.points {
+  text-align: center;
+  font-weight: bold;
+  color: #ff7b00;
+}

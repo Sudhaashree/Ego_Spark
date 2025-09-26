@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Use LED Lights",
+    "description": "Replace traditional bulbs with LED lights to save electricity.",
+    "ecoReason": "LEDs consume 80% less energy.",
+    "imageUrl": "https://media.istockphoto.com/id/521400147/photo/decorative-lights-in-a-temple.jpg?s=612x612&w=0&k=20&c=Rq4dkkivhjiRFiXsc39i3GQ5oacfiZybUmQWn0zs0Ko="
+  },
+  {
+    "title": "Clay Diyas",
+    "description": "Use traditional clay diyas instead of plastic decorative lights.",
+    "ecoReason": "Clay diyas are biodegradable and reusable.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0079/2903/6915/files/diwali1_1024x1024.jpg?v=1537810356"
+  },
+  {
+    "title": "Natural Rangoli Colors",
+    "description": "Make your own rangoli colors from turmeric, rice flour, and flowers.",
+    "ecoReason": "Chemical-free and safe for kids and pets.",
+    "imageUrl": "https://cdn.britannica.com/47/155447-050-3655E800/Rangoli-holiday-decoration-Diwali.jpg"
+  },
+  {
+    "title": "Reusable Gift Wraps",
+    "description": "Use cloth bags or old newspaper instead of plastic wraps.",
+    "ecoReason": "Reduces plastic waste and saves cost.",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqIrQEtDj2d-L8ceuiAK1CINzjalDF0MVug&s"
+  },
+  {
+    "title": "Solar Garden Lights",
+    "description": "Install solar garden lights for outdoor decoration.",
+    "ecoReason": "Saves electricity and works on renewable energy.",
+    "imageUrl": "https://lumazlife.com/cdn/shop/files/led-outdoor-solar-firework-light-with-90-led-ip65-waterproof-i49-2.webp?v=1732541888&width=1445"
+  },
+
+  {
+    "title": "Community Fireworks",
+    "description": "Celebrate with a shared community fireworks show instead of individual bursting.",
+    "ecoReason": "Reduces air and noise pollution drastically.",
+    "imageUrl": "https://images.pexels.com/photos/1387577/pexels-photo-1387577.jpeg"
+  },
+  {
+    "title": "Eco-Friendly Torans",
+    "description": "Decorate doors with handmade torans from leaves, flowers, and paper.",
+    "ecoReason": "Avoids plastic décor and promotes biodegradable materials.",
+    "imageUrl": "https://5.imimg.com/data5/SELLER/Default/2024/7/439139818/MW/QV/JZ/133508031/artificial-marigold-toran-500x500.jpg"
+  },
+  {
+    "title": "Digital Greeting Cards",
+    "description": "Send digital greetings instead of printed cards.",
+    "ecoReason": "Saves paper and reduces carbon footprint from printing.",
+    "imageUrl": "https://gecdesigns.com/_next/image?url=https%3A%2F%2Fasset.gecdesigns.com%2Fimg%2Fwallpapers%2Fhappy-diwali-2024-wishes-and-greetings-with-diya-and-flower-background-sr23102411-cover.webp&w=1440&q=75"
+  }
+]
+
+

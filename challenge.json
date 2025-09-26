@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Cracker Cutdown",
+    "description": "Burst 30% fewer crackers than last year to reduce air pollution.",
+    "target": "30% fewer crackers",
+    "points": 50
+  },
+  {
+    "title": "Noise-Free Celebration",
+    "description": "Avoid loud crackers and use only noise-free sparklers.",
+    "target": "Only use noise-free crackers",
+    "points": 40
+  },
+  {
+    "title": "Zero Plastic Decor",
+    "description": "Use only paper, cloth or natural materials for Diwali decoration.",
+    "target": "Zero plastic used",
+    "points": 60
+  },
+  {
+    "title": "Energy Saver Lights",
+    "description": "Switch to energy-saving LED lights for all Diwali decorations.",
+    "target": "100% LED lights",
+    "points": 30
+  },
+  {
+    "title": "Green Start",
+    "description": "Plant 2 trees as part of your Diwali celebration.",
+    "target": "Plant 2 trees",
+    "points": 80
+  }
+]
